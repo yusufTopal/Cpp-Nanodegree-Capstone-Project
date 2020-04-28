@@ -20,9 +20,9 @@ int imageHeight = 416;
 float confidenceThreshold =0.5, nmsThreshold=0.4;
 vector<string> yoloClassNames;
 
-const string yolo_classes = "yolov3/coco.names";
-const string yoloConfig ="yolov3/yolov3.cfg";
-const string yoloWeights ="yolov3/yolov3.weights";
+const string yolo_classes = "../yolov3/coco.names";
+const string yoloConfig ="../yolov3/yolov3.cfg";
+const string yoloWeights ="../yolov3/yolov3.weights";
 
 const string originalImageWindow = "Input media";
 const string imageUnderProcessWindow = "Media under process";
