@@ -2,10 +2,10 @@
 This is the graduation project of [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
 This project implements ground vehicle(bus, car, truck, motorbike) detection on the background, and saving of detected vehicle images when the user presses 'S' button. Program flow as follows
-# Start the program
-# Input video window appears
-# Press S to save detected vehicle images
-# Press ESC to terminate
+* Start the program
+* Input video window appears
+* Press S to save detected vehicle images
+* Press ESC to terminate
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
