@@ -1,7 +1,7 @@
 # CPPND: Vehicle Detector
 This is the graduation project of [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 
-The program processes a video file and detects vehicles on the video on the background. Users are able to save detected vehicle images or quit the program.
+This project implements ground vehicle(bus, car, truck, motorbike) detection on the background, and saving of detected vehicle images when the user presses 'S' button.
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
@@ -10,8 +10,6 @@ The program processes a video file and detects vehicles on the video on the back
   * Linux: make is installed by default on most Linux distros
 * gcc/g++ >= 5.4
   * Linux: gcc / g++ is installed by default on most Linux distros
-  * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
-  * Windows: recommend using [MinGW](http://www.mingw.org/)
 * OpenCV >= 4.3.0
   * Linux: Can be found here [OpenCV 4.3.0](https://github.com/opencv/opencv/tree/4.3.0)
 * Yolo-v3 Weights File
