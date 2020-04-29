@@ -14,6 +14,8 @@ The program processes a video file and detects vehicles on the video on the back
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 * OpenCV >= 4.3.0
   * Linux: Can be found here [OpenCV 4.3.0](https://github.com/opencv/opencv/tree/4.3.0)
+* Yolo-v3 Weights File
+  * Linux: wget https://pjreddie.com/media/files/yolov3.weights and locate under yolov3 directory.
 
 ## Basic Build Instructions
 
